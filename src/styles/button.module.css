@@ -1,0 +1,6 @@
+.btn-primary {
+  @apply text-red-800 ring ring-pink-500 ring-offset-0 mx-2 rounded hover:bg-violet-300 flex flex-row justify-between px-2 items-center ;
+}
+.btn-secondary {
+  @apply text-blue-800 ring ring-blue-500 ring-offset-0 mx-2 rounded hover:bg-blue-300 flex flex-row justify-between px-2 items-center
+}
